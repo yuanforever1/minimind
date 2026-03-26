@@ -4,3 +4,4 @@ website/
 docs-minimind/
 trainer/__pycache__
 dataset/*.jsonl
+.vscode/
